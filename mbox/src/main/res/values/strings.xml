@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicBox</string>
+    <string name="searchField">Поиск</string>
+</resources>
